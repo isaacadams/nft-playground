@@ -35,6 +35,13 @@ This is where [Alchemy](https://dashboard.alchemyapi.io) comes in.
 
 Alchemy essentially helps us broadcast our contract creation transaction so that it can be picked up by miners as quickly as possible. Once the transaction is mined, it is then broadcasted to the blockchain as a legit transaction. From there, everyone updates their copy of the blockchain.
 
-# Misc
+# 🔧 Misc
 
 - [opensea testnet](https://testnets.opensea.io/)
+- [base64](https://www.utilities-online.info/base64)
+- svgs
+  - [svg-viewer](https://www.svgviewer.dev/)
+  - [docs](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+
+
+0x580c3083a600FF2dfe0d30C1dE84c46080f6A9B0
