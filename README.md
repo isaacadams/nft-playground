@@ -22,6 +22,9 @@ Alchemy essentially helps us broadcast our contract creation transaction so that
 
 # 🔧 Misc
 
+- NFT Metadata Storage Tools
+  - [intro](https://artynft.io/nft-granny/where-is-nft-art-stored/)
+  - [nft storage](https://nft.storage/)
 - [base64](https://www.utilities-online.info/base64)
 - svgs
   - [svg-viewer](https://www.svgviewer.dev/)
