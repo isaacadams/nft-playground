@@ -22,6 +22,8 @@ Alchemy essentially helps us broadcast our contract creation transaction so that
 
 # 🔧 Misc
 
+- Solidity
+  - [solidity by example](https://solidity-by-example.org/)
 - NFT Metadata Storage Tools
   - [intro](https://artynft.io/nft-granny/where-is-nft-art-stored/)
   - [nft storage](https://nft.storage/)
